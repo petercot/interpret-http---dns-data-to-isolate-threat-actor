@@ -1,7 +1,7 @@
 # Objective:
 Review logs of an exploitation of documented HTTP and DNS vulnerabilities.
 
-Part 1: Investigate an SQL Injection Attack
+Part 1: Investigate an SQL Injection Attack |
 Part 2: Investigate DNS Data Exfiltration
 
 # Purpose:
